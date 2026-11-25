@@ -1,16 +1,27 @@
-## Hi there 👋
+# Salut, moi c'est Pascal 👋
 
-<!--
-**Marogold/Marogold** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Testeur de jeux devenu leader qualité.** Vaut mieux prévenir que guérir.
 
-Here are some ideas to get you started:
+Ça fait plus de 25 ans que je fais de la qualité logicielle, du jeu vidéo AAA à une grande institution financière. Ma conviction : la qualité ne s'inspecte pas à la fin, elle se construit à chaque étape, avec tous les acteurs.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Ce que je fais
+
+- **Qualité et gouvernance** : des indicateurs qui comptent, des équipes mobilisées, une qualité qui devient l'affaire de tous.
+- **IA encadrée** : l'IA propose, l'humain décide (*human in the loop*). Je cherche comment en tirer de la valeur sans compromettre la rigueur.
+- **Je reste proche du technique** : mon portfolio le montre.
+
+## À voir en premier
+
+➡️ **[Mon portfolio](https://github.com/Marogold/portfolio)** : architecture, décisions et preuves de mes projets, y compris un test de parité exécutable en une minute.
+
+## Hors clavier
+
+- 🤘 Métaleux et GenX assumé
+- 🚴 Vélo, 🏂 snowboard
+- 🎮 Gaming (mon premier métier a été d'en tester)
+- 🔧 Passionné de techno
+- 🏒 Fan fini des Canadiens. **GO HABS GO!**
+
+## Me joindre
+
+[LinkedIn](https://www.linkedin.com/in/gauthierpascal/)
